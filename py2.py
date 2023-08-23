@@ -86,3 +86,8 @@ if power_ex == False:
     separator = '*'
     int_values = [str(item) for item in b if isinstance(item, int)]
     print(separator.join(int_values))
+
+
+
+
+#ghjhfuyfuyjfvjhvgjhcjgfcj
