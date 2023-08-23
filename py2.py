@@ -7,6 +7,9 @@ specials = [2,3,5,7]
 a = []
 b = []
 interval = 2
+hello_man_i_hate_you == False
+if hello_man_i_hate_you == True:
+    pass
 while interval <= n:
     prime = True
     for i in range(2,int(interval**.5)+1):
@@ -89,5 +92,3 @@ if power_ex == False:
 
 
 
-
-#ghjhfuyfuyjfvjhvgjhcjgfcj
